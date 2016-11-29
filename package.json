@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/machadogj/react-native-components-viewer",
   "dependencies": {
-    "react-native-layout-tester": "git+https://github.com/hiaw/react-native-components-viewer"
+    "react-native-layout-tester": "^1.0.5"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.0",
