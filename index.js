@@ -108,16 +108,16 @@ const styles = StyleSheet.create({
     flex: 1
   },
   menuContainer: {
-    flex: 0.25
+    flex: 0.15
   },
   bodyContainer: {
-    flex: 0.75
+    flex: 0.85
   },
   body: {
     flex: 1
   },
   emptyContainer: {
-    flex: 0.75,
+    flex: 0.85,
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#6BA3A3'
